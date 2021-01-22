@@ -1,0 +1,13 @@
+﻿  list.c
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\list.c(24): warning C4013: 'malloc' undefined; assuming extern returning int
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\list.c(25): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\list.c(24): warning C4047: 'initializing': 'ListNodePtr' differs in levels of indirection from 'int'
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\list.c(45): warning C4013: 'free' undefined; assuming extern returning int
+  hashtable.c
+  week5.c
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\week5.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+f:\2018\kit205 data structures and algorithms\week 5 tutorial\kit205code\week5.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Generating Code...
+  KIT205Code.vcxproj -> F:\2018\KIT205 Data Structures and Algorithms\week 5 tutorial\Debug\KIT205Code.exe

@@ -1,0 +1,6 @@
+﻿  graph.c
+f:\2018\kit205 data structures and algorithms\assignment2\kit205assig2\graph.c(116): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+f:\2018\kit205 data structures and algorithms\assignment2\kit205assig2\graph.c(122): warning C4047: '<': 'int' differs in levels of indirection from 'EdgeList *'
+  main.c
+  Generating Code...
+  KIT205Assig2.vcxproj -> F:\2018\KIT205 Data Structures and Algorithms\assignment2\Debug\KIT205Assig2.exe

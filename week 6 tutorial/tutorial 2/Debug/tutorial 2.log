@@ -1,0 +1,4 @@
+﻿  main.c
+e:\2018\kit205 data structures and algorithms\week 6 tutorial\tutorial 2\main.c(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  tutorial 2.vcxproj -> E:\2018\KIT205 Data Structures and Algorithms\week 6 tutorial\Debug\tutorial 2.exe
